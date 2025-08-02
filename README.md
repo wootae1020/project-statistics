@@ -88,6 +88,10 @@
 | `2번 3번 가설.ipynb` | 수수료율, 가격대에 따른 거래취소율/매출 차이 분석 (ANOVA, Tukey) |
 | `서비스가격, 추가결제금액 발생여부가 거래취소율.ipynb` | 핵심 독립변수가 거래취소율에 미치는 영향 분석 |
 
+## 📄 변수 정의서 보기
+
+- [데이터 정의서 PDF 보기](./data/data_dictionary.pdf)
+
 ## 📄 프로젝트 보고서
 
 - [🔗 기획서 보기](./results/project_proposal.pdf)
