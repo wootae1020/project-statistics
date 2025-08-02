@@ -90,8 +90,8 @@
 
 ## 📄 프로젝트 보고서
 
-- [🔗 기획서 보기](./results/[4조] 통계학 기반 금융데이터 분석 프로젝트 기획서.pdf)
-- [🔗 최종 발표자료 보기](./results/[4조] 통계학 기반 금융데이터 분석 프로젝트 피피티.pdf)
+- [🔗 기획서 보기](./results/project_proposal.pdf)
+- [🔗 최종 발표자료 보기](./results/project_presentation.pdf)
 
 ## 🗂 폴더 구조
 
