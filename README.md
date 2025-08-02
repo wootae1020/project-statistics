@@ -113,6 +113,7 @@
 
 ## 🗂 폴더 구조
 
+'''
 project-statistics/
 ├── README.md # 프로젝트 개요 및 결과 정리
 ├── data/ # 분석에 사용된 원천 데이터
@@ -132,3 +133,4 @@ project-statistics/
 ├── results/ # 프로젝트 산출물
 │ ├── statistics_project_proposal.pdf
 │ └── statistics_project_report.pdf
+'''
