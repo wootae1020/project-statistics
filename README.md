@@ -96,8 +96,8 @@
 ## 📄 부록 문서 링크
 
 - 📘 [데이터 정의서 보기 (data_dictionary.pdf)](./data/data_dictionary.pdf)
-- 📄 [프로젝트 기획서 보기 (project_proposal.pdf)](./results/project_proposal.pdf)
-- 📊 [최종 발표자료 보기 (project_presentation.pdf)](./results/project_presentation.pdf)
+- 📄 [프로젝트 기획서 보기 (statistics_project_proposal.pdf)](./results/statistics_project_proposal.pdf)
+- 📊 [최종 발표자료 보기 (statistics_project_presentation.pdf)](./results/statistics_project_report.pdf)
 
 ---
 
