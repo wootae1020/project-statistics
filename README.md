@@ -95,3 +95,5 @@ project-statistics/
 * [📊 프로젝트 발표자료](results/statistics_project_presentation.pdf)
 
 ---
+
+[← Project 972로 돌아가기](https://github.com/wootae1020/project972)
