@@ -92,7 +92,7 @@ project-statistics/
 ## 📎 프로젝트 문서
 
 * [프로젝트 기획서](results/statistics_project_proposal.pdf)
-* [프로젝트 발표자료](results/statistics_project_presentation.pdf)
+* [프레젠테이션](results/statistics_project_presentation.pdf)
 
 ---
 
