@@ -75,7 +75,7 @@ IT 아웃소싱 플랫폼 **L사**의 1년치 거래 데이터를 분석하여,
 
 ---
 
-## 📂 폴더 구조
+## 폴더 구조
 
 ```
 project-statistics/
@@ -91,8 +91,8 @@ project-statistics/
 
 ## 📎 프로젝트 문서
 
-* [📄 프로젝트 기획서](results/statistics_project_proposal.pdf)
-* [📊 프로젝트 발표자료](results/statistics_project_presentation.pdf)
+* [프로젝트 기획서](results/statistics_project_proposal.pdf)
+* [프로젝트 발표자료](results/statistics_project_presentation.pdf)
 
 ---
 
